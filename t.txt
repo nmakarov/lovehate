@@ -1,0 +1,11 @@
+cat
+bat
+bet
+cot
+bot
+bog
+dog
+dot
+car
+bar
+cap
